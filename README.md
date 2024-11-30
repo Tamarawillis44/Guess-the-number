@@ -23,7 +23,7 @@ while guess != your_number:  # Loop continues until the correct guess is made
 
 ## Code Update
 
-I did run into issues with the code where it would not track the attempts correctly and the  print ststment woukd excute before user made the correct guess.
+I did run into issues with the code where it would not track the attempts correctly and the  print statement would excute before user made the correct guess.
 1. Guess_count was assded outsided the loop and within the loop
 2. print statement taking out of loop statement.
 3. 
